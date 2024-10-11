@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, eu sou [Lucas Maciel]! 👋
 
-<!--
-**LucasPyBoni/LucasPyBoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um programador iniciante buscando me encaixar nesse mundo de tecnologias, automações, desenvolvimento web, desenvolvimento de software e análise de dados.
 
-Here are some ideas to get you started:
+### Minhas Habilidades:
+- 🐍 Python 
+- 🛢️ SQL (MySQL)
+- < /> HTML (básico)
+- 📊 Excel (avançado)
+- 🖥️ Desenvolvimento Web (Flask)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hoje:
+- 🌱 Atualmente estou focando em python, sql e inglês.
+- 👯 Desejo colaborar com automações como pyautogui e selenium. Além disso, quero ajudar com conexões a API's, CRUD e desenvolvimento WEB.
+- ⚡ Pretendo me aperfeiçoar HTML/CSS, Power BI, SQL (Server, Oracle e Postgree) e IA.
+- ☁️ Vou ainda aprender AWS e JavaScript
+
+🎓 Certificações: 
+- Python Impressionador (Hashtag Treinamentos)
+- Excel Impressionador (Hashtag Treinamentos)
