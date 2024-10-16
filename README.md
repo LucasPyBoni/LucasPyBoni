@@ -7,7 +7,7 @@ Sou um programador buscando me encaixar nesse mundo de tecnologias, automações
 - 🛢️ SQL (MySQL)
 - < /> HTML (básico)
 - 📊 Excel (avançado)
-- 🖥️ Desenvolvimento Web (Flask)
+- 🖥️ Desenvolvimento Web (Flask e Django)
 
 ### Hoje:
 - 🌱 Atualmente estou focando em Python, SQL e Inglês.
