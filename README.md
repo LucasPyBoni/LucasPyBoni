@@ -1,6 +1,6 @@
 ## Olá, eu sou [Lucas Maciel]! 👋
 
-Sou um programador buscando me encaixar nesse mundo de tecnologias, automações, desenvolvimento web, desenvolvimento de software e análise de dados.
+Sou um programador buscando me encaixar nesse mundo de tecnologias, automações, desenvolvimento web, desenvolvimento de software e análise de dados. Estou constantemente aprendendo e aplicando meus conhecimentos em projetos práticos. Tenho como meta me aprimorar e contribuir para soluções inovadoras.
 
 ### Minhas Habilidades:
 - 🐍 Python 
