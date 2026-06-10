@@ -13,7 +13,7 @@
 ### Hoje:
 - 🌱 Atualmente estou focando em SQL, IA e Inglês.
 - 👯 Desejo colaborar com automações como pyautogui e selenium. Além disso, quero ajudar com conexões a API's, CRUD e desenvolvimento WEB.
-- ⚡ Pretendo me aperfeiçoar em HTML/CSS, Power BI, SQL (Oracle) e IA.
+- ⚡ Pretendo me aperfeiçoar em HTML/CSS, Power BI, e IA.
 - ☁️ Vou ainda aprender AWS e JavaScript.
 
 🎓 Certificações: 
