@@ -6,16 +6,17 @@ Sou um desenvolvedor focado em criar soluções eficientes por meio da programa�
 
 ### 🛠️ Minhas Habilidades
 
-* **Linguagens & Frameworks:** Python, Flask, Django, HTML (básico)
-* **Banco de Dados:** SQL (MySQL, SQL Server, PostgreSQL)
-* **Dados & Business Intelligence:** Excel (avançado), Power BI (básico)
-* **Ferramentas & DevOps:** Git & GitHub (Controle de versão e colaboração)
+* 🐍 **Python:** Flask, Django e Automações
+* 🛢️ **Banco de Dados:** SQL (MySQL, SQL Server, PostgreSQL)
+* < /> **Web Basificado:** HTML
+* 📊 **Dados & BI:** Excel (avançado), Power BI (básico)
+* 🐙 **DevOps:** Git & GitHub (Controle de versão e colaboração)
 
 ---
 
 ### 🚀 Objetivos e Foco Atual
 
-* 🌱 **No momento:** Aprofundando estudos em SQL Avançado, Inteligência Artificial e Inglês.
+* 🌱 **No momento:** Iniciando os estudos em **Java**, além de IA e Inglês.
 * 👯 **Parcerias & Colaborações:** Aberto a projetos de automação (PyAutoGUI, Selenium), integração com APIs, sistemas CRUD e desenvolvimento web.
 * ⚡ **Próximos passos:** Aperfeiçoamento em HTML/CSS, Power BI e ferramentas de IA.
 * ☁️ **Futuro radar:** Iniciar estudos em AWS (Cloud) e JavaScript.
